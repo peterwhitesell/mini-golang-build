@@ -7,3 +7,4 @@ contains the following:
 - openssh
 - ca-certificates
 - glide  
+- go2xunit

@@ -4,6 +4,7 @@
 contains the following:
 - golang 1.9
 - git
+- mercurial (hg)
 - openssh
 - ca-certificates
 - glide  
